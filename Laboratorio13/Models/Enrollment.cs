@@ -1,6 +1,7 @@
 ﻿namespace Laboratorio13.Models
 {
     public class Enrollment
+        //sinche
     {
         public int EnrollmentId { get; set; }
         public int StudentId { get; set;}
